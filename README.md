@@ -22,7 +22,7 @@ Web Développer & CyberSecurity learner
 
 I'm currently studying web development and IT security.
 
-* 🖥️  See my portfolio at [My Portfolio](http://fat2nash.fr)
+<!--* 🖥️  See my portfolio at [My Portfolio](http://fat2nash.fr)-->
 
 ### Skills
 
